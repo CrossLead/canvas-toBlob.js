@@ -1,0 +1,19 @@
+{
+  "name": "canvas-toblob-polyfill",
+  "version": "1.0.0",
+  "description": "canvas-toBlob.js ================",
+  "main": "canvas-toBlob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrossLead/canvas-toBlob.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrossLead/canvas-toBlob.js/issues"
+  },
+  "homepage": "https://github.com/CrossLead/canvas-toBlob.js#readme"
+}
